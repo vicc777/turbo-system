@@ -1,7 +1,0 @@
-name: Build
-on:
-  push:
-
-jobs:
-  use-reusable:
-    uses: ./.github/workflows/blank..yml
